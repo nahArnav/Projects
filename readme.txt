@@ -1,0 +1,1 @@
+A Robotics workshop was conducted by the Robotics Club of our college(PICT Robotics Club) and they taught and guided us in making a gesture controlled bot, that responds to the movements of our hand. 
