@@ -1,0 +1,9 @@
+We can characterise a person's audio aura by using the average values of the valence, energy and danceability of the top 100 songs of each user.
+The combination of all these factors can be used to determine what type of music is the listener more attracted towards, which we can assume is how the user's feeling when he's listening to the songs, which can be assumed to be pretty representative of the user's character.
+For example, if the average danceability and energy of the top 100 songs is high, we can assume that the person's character is bold and outgoing,
+if the valence, energy and danceability are low, we can assume the user is sad and has a sad and reserved characteristic.
+
+Although this hypothesis seems to be pretty accurate, it might not be totally representative of the listener's character. This is because many times people do not always listen to the songs that give off the energy of how they're feeling at the moment.
+Judging on people's character using just 3 quantities may not be that accurate. We can try adding more data like tempo(high tempo songs can mean that the listener feels very energetic while low tempo songs can mean that the listener feels calm), we can also factor in the duration for which a particular song is listened to, and use the average values of valence, energy and danceability with respect to the amount of time a the song is listened to.
+So, in this case, if a user listens to 5 songs with a total length of 30 mins and 10 songs with a total length of 25 mins, the 5 songs will have a greater impact on the aura and we can multiply the effects of these songs by the number of times each song is listened to by the listener.
+So, factoring in the number of time spent by the user listening to a particular type of song will lead to a better estimate of the listener's aura in my opinion.

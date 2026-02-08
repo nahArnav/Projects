@@ -1,0 +1,50 @@
+-----------------------------------------------
+Random5000:
+    SORT1: 0.053
+    SORT2: 0.021
+    SORT3: 0.051
+Random10000:
+    SORT1: 0.198
+    SORT2: 0.041
+    SORT3: 0.112
+Random50000:
+    SORT1: 5.612
+    SORT2: 0.443
+    SORT3: 2.286
+-----------------------------------------------
+Reversed5000:
+    SORT1: 0.065
+    SORT2: 0.021
+    SORT3: 0.040
+Reversed10000:
+    SORT1: 0.211
+    SORT2: 0.041
+    SORT3: 0.118
+Reversed50000:
+    SORT1: 4.858
+    SORT2: 0.434
+    SORT3: 2.329
+-----------------------------------------------
+Sorted5000:
+    SORT1: 0.024
+    SORT2: 0.021
+    SORT3: 0.044
+Sorted10000:
+    SORT1: 0.045
+    SORT2: 0.041
+    SORT3: 0.125
+Sorted50000:
+    SORT1: 0.453
+    SORT2: 0.434
+    SORT3: 3.4
+-----------------------------------------------
+Bubble Sort :
+    Minimum = n
+    Maximum = n^2
+Selection Sort :
+    Minimum = n^2
+    Maximum = n^2
+Merge Sort :
+    Minimum = nlogn
+    Maximum = nlogn
+-----------------------------------------------

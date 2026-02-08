@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: While using this sorting technique with sorted and reversed inputs, it showed a considerable difference in the time taken for each type of input, which suggests that the number of steps for the 2 input types are different, which is only possible for bubble sort as number of steps required to complete the algorithm remain constant for selection sort and merge sort. Number of steps for the best case scenario(sorted input) is n, and for the worst case scenario(reversed input) is n^2.
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes the least time among the 3 sorts(sort1, sort2, sort3), for all 3 input sizes. It also takes the same amount of time for the sorted, random and reversed versions of inputs of the same size, suggesting the number of steps required to complete the sorting algorithm is constant, which, in case of merge sort, is (n)(log(n)).
+
+sort3 uses: Selection Sort
+
+How do you know?: This sorting technique had similar run times(run time of sort3 was more than the run time of sort2 as number of steps in this technique is n^2) for a given size of input, and its run time remains constant for reversed, random and sorted input types, which are the chracteristics of selection sort.
