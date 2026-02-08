@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://koenigsegg-cdn-g7eehhd6f0ewcaff.z02.azurefd.net/drupal/styles/1920x1400/azure/2022-03/Koenigsegg%20Jesko%20Absolut%20Header%20V3.png?h=6ca15b42&itok=gnzttTIF");
+  background-repeat: no-repeat;
+  background-size: cover;
+   /* Fallback color */
+}
+div{
+    margin-top: 50px;
+}
+p{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+a {
+  text-decoration: none;
+  color : black;
+}
+.center-container {
+    text-align: center;
+}

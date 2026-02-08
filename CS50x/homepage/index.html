@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+        <title>My Webpage</title>
+    </head>
+    <style></style>
+    <body>
+        <div><h1 style="text-align: center; font-family: Algerian; color:white;"><b>CARS</b></h1></div>
+        <p><h2 style="text-align: center; color:white;">These are some cars that I like, click on them to know more about them</h2></p>
+        <div class="container-flex">
+             <button onclick = "runDarkness()">Darkness</button>
+        </div>
+
+        <ord>
+            <ul>
+                <li><figure>
+                    <a href="koenigsegg jesko.html"><img src="https://wallpapercave.com/wp/wp13424731.jpg" alt="Koenigsegg Jesko"></a>
+                    <figcaption><mark>Koenigsegg Jesko</mark></figcaption>
+                </figure></li>
+                <li><figure>
+                    <a href="lamborghini veneno.html"><img src="https://images6.alphacoders.com/378/thumb-1920-378711.jpg" alt="Lamborghini Veneno"></a>
+                    <figcaption><mark>Lamborghini Veneno</mark></figcaption>
+                </figure></li>
+                <li><figure>
+                    <a href="bugatti chiron.html"><img src="https://pixelz.cc/wp-content/uploads/2023/11/bugatti-chiron-golden-erauhd-4k-wallpaper.jpg" alt="Bugatti Chiron"></a>
+                    <figcaption><mark>Bugatti Chiron</mark></figcaption>
+                </figure></li>
+                <li><figure>
+                    <a href="mclaren speedtail.html"><img src="https://www.hdcarwallpapers.com/walls/mclaren_speedtail_4k-HD.jpg" alt="Mclaren Speedtail"></a>
+                    <figcaption><mark>Mclaren Speedtail</mark></figcaption>
+                </figure></li>
+
+            </ul>
+        </ord>
+        <script>
+            function runDarkness()
+            {
+                var element = document.body;
+                element.classList.toggle("dark-mode");
+            }
+        </script>
+    </body>
+</html>

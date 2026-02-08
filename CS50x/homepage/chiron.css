@@ -1,0 +1,21 @@
+body {
+  background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/7133.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+   /* Fallback color */
+}
+div{
+    margin-top: 50px;
+}
+p{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+a {
+  text-decoration: none;
+  color : green;
+}
+.center-container {
+    text-align: center; 
+}
+

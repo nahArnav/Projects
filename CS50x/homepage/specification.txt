@@ -1,0 +1,26 @@
+Tags used:
+<html>
+<head>
+<title>
+<body>
+<link>
+<script>
+<div>
+<h1>
+<b>
+<p>
+<h2>
+<button>
+<ord>
+<ul>
+<li>
+<figure>
+<a>
+<figcaption>
+<mark>
+
+JS implementation:
+Dark Mode
+
+Bootstrap implementation:
+Diff features in many tags using css and javascript
