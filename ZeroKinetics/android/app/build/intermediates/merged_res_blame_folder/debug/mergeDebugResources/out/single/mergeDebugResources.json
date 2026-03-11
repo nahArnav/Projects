@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_gesture_enroll.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_gesture_enroll.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_splash.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_dashboard.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_logo_icon.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_logo_icon.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_gradient_button.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_gradient_button.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_join_session.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_join_session.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_gradient_ring.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_gradient_ring.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_faculty_register.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_faculty_register.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_register.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_glass_input.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_glass_input.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_gesture_circle.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_gesture_circle.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_gesture_verify.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_gesture_verify.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_dialog_create_session.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/dialog_create_session.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_item_attendance.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/item_attendance.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_faculty_dashboard.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_faculty_dashboard.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_bg_glass_input_minimal.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/bg_glass_input_minimal.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/layout_activity_session_attendance.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/layout/activity_session_attendance.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jaykelani/.gradle/daemon/9.2.1/com.zerokinetics.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.zerokinetics.app-debug-38:/layout_activity_join_session.xml.flat",
+        "source": "com.zerokinetics.app-main-40:/layout/activity_join_session.xml"
+    }
+]
