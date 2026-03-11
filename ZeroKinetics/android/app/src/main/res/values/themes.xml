@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Deep Space Theme -->
+    <style name="Theme.ZeroKinetics" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/accent_cyan</item>
+        <item name="colorPrimaryVariant">@color/accent_purple</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent_purple</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <item name="android:colorBackground">@color/background_primary</item>
+        <item name="colorSurface">@color/background_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:statusBarColor">@color/status_bar</item>
+        <item name="android:navigationBarColor">@color/nav_bar</item>
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <!-- Splash screen theme -->
+    <style name="Theme.ZeroKinetics.Splash" parent="Theme.ZeroKinetics">
+        <item name="android:windowBackground">@color/background_primary</item>
+    </style>
+
+    <!-- Glass Input Field style -->
+    <style name="Widget.ZeroKinetics.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/input_background</item>
+        <item name="boxStrokeColor">@color/input_border_focus</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+        <item name="boxCornerRadiusTopStart">14dp</item>
+        <item name="boxCornerRadiusTopEnd">14dp</item>
+        <item name="boxCornerRadiusBottomStart">14dp</item>
+        <item name="boxCornerRadiusBottomEnd">14dp</item>
+        <item name="hintTextColor">@color/accent_cyan</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+
+    <!-- Gradient button style -->
+    <style name="Widget.ZeroKinetics.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.08</item>
+    </style>
+
+    <!-- Base text appearance -->
+    <style name="TextAppearance.ZeroKinetics" parent="TextAppearance.AppCompat" />
+
+    <!-- Heading text styles -->
+    <style name="TextAppearance.ZeroKinetics.Heading1" parent="TextAppearance.ZeroKinetics">
+        <item name="android:textSize">42sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+    </style>
+
+    <style name="TextAppearance.ZeroKinetics.Heading2" parent="TextAppearance.ZeroKinetics.Heading1">
+        <item name="android:textSize">42sp</item>
+    </style>
+
+    <style name="TextAppearance.ZeroKinetics.Subtitle" parent="TextAppearance.ZeroKinetics">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <!-- Dialog style -->
+    <style name="Theme.ZeroKinetics.Dialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="android:background">@color/background_surface</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="colorPrimary">@color/accent_cyan</item>
+    </style>
+</resources>
