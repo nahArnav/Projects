@@ -1,0 +1,406 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.databinding:viewbinding:9.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e31ca44678901cea5b69ebe5705fb80c/transformed/viewbinding-9.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e89d06e815c26bd426927db01d3160e5/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a80dedc42df86c1760a1d76be5c7cc7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/6d143bfbfd7a22db7be915518b8f04d3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2367caee1ed6017280cca7a4e1cf14f7/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8374ded65f40bb6f02daec4d13af9859/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jaykelani/.gradle/caches/9.2.1/transforms/45b8ccabb7f79434f5289ed75ae91f05/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ac016c7c51954f1c387c644da6bc3fc6/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1c9c46f03a7e534f39f6dbc4a295fd8/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1070a89ada4bdb05d036c35ff99c83bd/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3b2f464752051617e3b78eb7ce1caee3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3ec0ee319475aa1dd411bd12ec479996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7d591d49325505d0460e66b7987a8ad8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a7a04075e7cfda34857e6f5df4e34c94/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a8b23af4070cb732bc5587a01c4ba35e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b015e2704b218923186ebd967db99050/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8807f498362fd5f4926e47d4d697994b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7f221d679e16acbbbbdb3ac895e2eca1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1e6290665c3422ca0dbdd99e0f0925b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a3362b52844204d6a9e31e8b3b620d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e4cf351149d3d9a1e7f9925498aecd74/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b0e6bc4dac715494f7e3a47919bb1ce2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/0542f94fa5c4b6ec0055ac7afdb929d7/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/020f52a81d8ecc0533c049bf89a35c00/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/79f6b3618876727cefaf555c6ed3aa94/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/645411550acec48984e1b1b884508dad/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1b4568293e3f8e6b9d12c5d8f8f41f52/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7445d6d9b251589300d91e602ef1f120/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/19143c5cf7f3da779667ce60c595c238/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/c7c38f6edf1d2dfe01e036d8b6e033b7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9afde3d706b5b2ebb3752260623f4f22/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ad64d6660b8a99c4d8cc2cb4f04ba789/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/602bf9ffc067d263c3f54df9dfdacf7d/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fc4befbb18e51c9ca1eff9a9d78ad473/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/jaykelani/.gradle/caches/9.2.1/transforms/14fb59af534a9e2e369a69a68606ff86/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/84b9e3543488b1d7b1ba04ef372c89b3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2b9ca154f72b18bf6c43d020eb9cd442/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7dd0442aea2df8b193497debb674fb0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/f8652713df58d3b8731ad204fbf45b25/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/479e6956ae8a60fa6655111996b2dc75/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fa4c8c1842240444cedaaf3e16c9fba6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/616632209830b91421473b643b72116f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/28fec3687e76ed91d240eff340efa811/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ff2ac97343de404d504d8ea437bd94f4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.HIGH_SAMPLING_RATE_SENSORS
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:7:5-85
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:7:22-82
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:12:5-98
+	android:required
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:12:72-95
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:12:19-71
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:13:5-94
+	android:required
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:13:68-91
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:13:19-67
+application
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:15:5-46:19
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:15:5-46:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e89d06e815c26bd426927db01d3160e5/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e89d06e815c26bd426927db01d3160e5/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a80dedc42df86c1760a1d76be5c7cc7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a80dedc42df86c1760a1d76be5c7cc7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7dd0442aea2df8b193497debb674fb0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7dd0442aea2df8b193497debb674fb0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:20:9-54
+	tools:targetApi
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:24:9-29
+	android:icon
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:22:9-50
+	android:usesCleartextTraffic
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.zerokinetics.app.ui.splash.SplashActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:27:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.zerokinetics.app.ui.auth.LoginActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:36:9-84
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:36:57-81
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:36:19-56
+activity#com.zerokinetics.app.ui.auth.RegisterActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:37:9-87
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:37:60-84
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:37:19-59
+activity#com.zerokinetics.app.ui.auth.FacultyRegisterActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:38:9-94
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:38:67-91
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:38:19-66
+activity#com.zerokinetics.app.ui.gesture.GestureEnrollActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:39:9-95
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:39:68-92
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:39:19-67
+activity#com.zerokinetics.app.ui.gesture.GestureVerifyActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:40:9-95
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:40:68-92
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:40:19-67
+activity#com.zerokinetics.app.ui.dashboard.DashboardActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:41:9-93
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:41:66-90
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:41:19-65
+activity#com.zerokinetics.app.ui.faculty.FacultyDashboardActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:42:9-98
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:42:71-95
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:42:19-70
+activity#com.zerokinetics.app.ui.faculty.SessionAttendanceActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:43:9-99
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:43:72-96
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:43:19-71
+activity#com.zerokinetics.app.ui.session.JoinSessionActivity
+ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:44:9-93
+	android:exported
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:44:66-90
+	android:name
+		ADDED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml:44:19-65
+uses-sdk
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:9.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e31ca44678901cea5b69ebe5705fb80c/transformed/viewbinding-9.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:9.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e31ca44678901cea5b69ebe5705fb80c/transformed/viewbinding-9.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e89d06e815c26bd426927db01d3160e5/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e89d06e815c26bd426927db01d3160e5/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a80dedc42df86c1760a1d76be5c7cc7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a80dedc42df86c1760a1d76be5c7cc7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/6d143bfbfd7a22db7be915518b8f04d3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/6d143bfbfd7a22db7be915518b8f04d3/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2367caee1ed6017280cca7a4e1cf14f7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2367caee1ed6017280cca7a4e1cf14f7/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8374ded65f40bb6f02daec4d13af9859/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8374ded65f40bb6f02daec4d13af9859/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jaykelani/.gradle/caches/9.2.1/transforms/45b8ccabb7f79434f5289ed75ae91f05/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jaykelani/.gradle/caches/9.2.1/transforms/45b8ccabb7f79434f5289ed75ae91f05/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ac016c7c51954f1c387c644da6bc3fc6/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ac016c7c51954f1c387c644da6bc3fc6/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1c9c46f03a7e534f39f6dbc4a295fd8/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1c9c46f03a7e534f39f6dbc4a295fd8/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1070a89ada4bdb05d036c35ff99c83bd/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1070a89ada4bdb05d036c35ff99c83bd/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3b2f464752051617e3b78eb7ce1caee3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3b2f464752051617e3b78eb7ce1caee3/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3ec0ee319475aa1dd411bd12ec479996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/3ec0ee319475aa1dd411bd12ec479996/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7d591d49325505d0460e66b7987a8ad8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7d591d49325505d0460e66b7987a8ad8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a7a04075e7cfda34857e6f5df4e34c94/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a7a04075e7cfda34857e6f5df4e34c94/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a8b23af4070cb732bc5587a01c4ba35e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/a8b23af4070cb732bc5587a01c4ba35e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b015e2704b218923186ebd967db99050/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b015e2704b218923186ebd967db99050/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8807f498362fd5f4926e47d4d697994b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/8807f498362fd5f4926e47d4d697994b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7f221d679e16acbbbbdb3ac895e2eca1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7f221d679e16acbbbbdb3ac895e2eca1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1e6290665c3422ca0dbdd99e0f0925b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e1e6290665c3422ca0dbdd99e0f0925b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a3362b52844204d6a9e31e8b3b620d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2a3362b52844204d6a9e31e8b3b620d9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e4cf351149d3d9a1e7f9925498aecd74/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/e4cf351149d3d9a1e7f9925498aecd74/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b0e6bc4dac715494f7e3a47919bb1ce2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b0e6bc4dac715494f7e3a47919bb1ce2/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/0542f94fa5c4b6ec0055ac7afdb929d7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/0542f94fa5c4b6ec0055ac7afdb929d7/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/020f52a81d8ecc0533c049bf89a35c00/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/020f52a81d8ecc0533c049bf89a35c00/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/79f6b3618876727cefaf555c6ed3aa94/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/79f6b3618876727cefaf555c6ed3aa94/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/645411550acec48984e1b1b884508dad/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/645411550acec48984e1b1b884508dad/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1b4568293e3f8e6b9d12c5d8f8f41f52/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/1b4568293e3f8e6b9d12c5d8f8f41f52/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7445d6d9b251589300d91e602ef1f120/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7445d6d9b251589300d91e602ef1f120/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/19143c5cf7f3da779667ce60c595c238/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/19143c5cf7f3da779667ce60c595c238/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/c7c38f6edf1d2dfe01e036d8b6e033b7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/c7c38f6edf1d2dfe01e036d8b6e033b7/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9afde3d706b5b2ebb3752260623f4f22/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9afde3d706b5b2ebb3752260623f4f22/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ad64d6660b8a99c4d8cc2cb4f04ba789/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ad64d6660b8a99c4d8cc2cb4f04ba789/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/602bf9ffc067d263c3f54df9dfdacf7d/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/602bf9ffc067d263c3f54df9dfdacf7d/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fc4befbb18e51c9ca1eff9a9d78ad473/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fc4befbb18e51c9ca1eff9a9d78ad473/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/jaykelani/.gradle/caches/9.2.1/transforms/14fb59af534a9e2e369a69a68606ff86/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha06] /Users/jaykelani/.gradle/caches/9.2.1/transforms/14fb59af534a9e2e369a69a68606ff86/transformed/security-crypto-1.1.0-alpha06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/84b9e3543488b1d7b1ba04ef372c89b3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/84b9e3543488b1d7b1ba04ef372c89b3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2b9ca154f72b18bf6c43d020eb9cd442/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/2b9ca154f72b18bf6c43d020eb9cd442/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7dd0442aea2df8b193497debb674fb0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/7dd0442aea2df8b193497debb674fb0f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/f8652713df58d3b8731ad204fbf45b25/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/f8652713df58d3b8731ad204fbf45b25/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/479e6956ae8a60fa6655111996b2dc75/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/479e6956ae8a60fa6655111996b2dc75/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fa4c8c1842240444cedaaf3e16c9fba6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/fa4c8c1842240444cedaaf3e16c9fba6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/616632209830b91421473b643b72116f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/616632209830b91421473b643b72116f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/28fec3687e76ed91d240eff340efa811/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/28fec3687e76ed91d240eff340efa811/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ff2ac97343de404d504d8ea437bd94f4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/ff2ac97343de404d504d8ea437bd94f4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jaykelani/ZeroKinetics/android/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/jaykelani/.gradle/caches/9.2.1/transforms/b40b645e859d7a7a2dd1591e8383d451/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/96c8cc94d1dc39fdf4ce9abced7ce9da/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.zerokinetics.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.zerokinetics.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/d5f9e40561205ddbf62bcb1a4a9a2a1d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/9a292cf05b92350a4747b43ccbd96962/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/jaykelani/.gradle/caches/9.2.1/transforms/34fddc661381dab1f8602efb5c1ae45f/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
