@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+        <div class="mb-3">
+            <table style="margin-left: auto; margin-right: auto; width: 70%;">
+                <thead>
+                    <tr>
+                        <th class="bg-info">Symbol</th>
+                        <th class="bg-info">Number Of Shares</th>
+                        <th class="bg-info">Type Of Transaction</th>
+                        <th class="bg-info">Price</th>
+                        <th class="bg-info">Time Of Transaction</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for transaction in transactions %}
+                        <tr>
+                            <td>{{transaction.share_symbol}}</td>
+                            <td>{{transaction.share_num}}</td>
+                            {% if transaction.transaction_type == 'BUY' %}
+                                <td class="bg-success text-white fw-bold">{{ transaction.transaction_type }}</td>
+                            {% else %}
+                                <td class="bg-danger text-white fw-bold">{{ transaction.transaction_type }}</td>
+                            {% endif %}
+                            <td>{{transaction.share_price | usd}}</td>
+                            <td>{{transaction.transaction_time}}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+{% endblock %}
