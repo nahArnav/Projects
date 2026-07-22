@@ -1,0 +1,24 @@
+# ── Truth Bureau V2 Requirements ──────────────────────────────────────────────
+
+# Web Server & API
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic>=2.0.0
+python-dotenv==1.0.1
+httpx==0.27.2
+
+# Modern Web Scraping (Replaces newspaper3k)
+trafilatura>=1.12.0
+lxml-html-clean==0.4.1
+
+# Machine Learning & Transformers
+torch==2.4.1
+transformers==4.44.2
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+numpy>=1.24.0
+pandas>=2.0.0
+
+# OS & Internet Tools
+duckduckgo-search>=7.0.0
+certifi
