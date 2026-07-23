@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NoteWeb</title>
+    <style>
+        body { width: 350px; padding: 15px; font-family: sans-serif; background-color: #0f172a; color: #f8fafc; margin: 0; }
+        .tab-btn { flex: 1; padding: 8px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+        .tab-active { background: #6366f1; color: white; }
+        .tab-inactive { background: #334155; color: #94a3b8; }
+    </style>
+</head>
+<body>
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+        <h2 style="margin: 0; font-size: 18px; color: #818cf8;">NoteWeb</h2>
+    </div>
+
+    <!-- Toggle Switches -->
+    <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 15px;">
+        <label style="display: flex; align-items: center; cursor: pointer; font-size: 14px;">
+            <input type="checkbox" id="highlight-toggle" style="margin-right: 8px;"> Enable Highlighting
+        </label>
+        <label style="display: flex; align-items: center; cursor: pointer; font-size: 14px;">
+            <input type="checkbox" id="copy-toggle" style="margin-right: 8px;"> Append Source on Copy
+        </label>
+    </div>
+
+    <!-- Two-Tab System -->
+    <div style="display: flex; gap: 5px; margin-bottom: 15px;">
+        <button id="tab-web" class="tab-btn tab-active">Web Notes</button>
+        <button id="tab-sticky" class="tab-btn tab-inactive">My Ideas</button>
+    </div>
+
+    <input type="text" id="search-bar" placeholder="Search your vault..." style="width: 100%; padding: 10px; margin-bottom: 10px; border-radius: 6px; border: 1px solid #334155; background-color: #1e293b; color: #f8fafc; box-sizing: border-box; outline: none;">
+
+    <select id="url-filter" style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 6px; border: 1px solid #334155; background-color: #1e293b; color: #f8fafc; box-sizing: border-box; outline: none;">
+        <option value="all">All Websites</option>
+    </select>
+
+    <button id="sticky-btn" style="width: 100%; padding: 10px; margin-bottom: 10px; border-radius: 6px; border: none; background-color: #eab308; color: #1c1917; font-weight: bold; cursor: pointer; display: none;">+ Spawn Sticky Note Here</button>
+
+    <ul id="notes-list" style="list-style: none; padding: 0; margin-bottom: 15px; max-height: 250px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px;"></ul>
+
+    <div style="display: flex; gap: 10px;">
+        <button id="export-btn" style="flex: 1; padding: 10px; background-color: #6366f1; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">Export PDF</button>
+        <button id="clear-btn" style="flex: 1; padding: 10px; background-color: #ef4444; color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">Clear Vault</button>
+    </div>
+
+    <script src="jspdf.min.js"></script>
+    <script src="custom_font.js"></script>
+    <script src="popup.js"></script>
+</body>
+</html>
